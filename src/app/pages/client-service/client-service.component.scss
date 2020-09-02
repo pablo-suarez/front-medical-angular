@@ -1,0 +1,27 @@
+.contentbox{
+  margin-top: 10px;
+  padding: 0%;
+  border-radius: 8px;
+  position: relative;
+
+  text-align: right;
+  -webkit-box-shadow: 12px 12px 22px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 12px 12px 22px -5px rgba(0,0,0,0.75);
+box-shadow: 12px 12px 22px -5px rgba(0,0,0,0.75);
+
+}
+.image-radius{
+border-radius: 8px;
+  margin: 0%;
+}
+
+.text-over {
+  position: absolute;
+  top: 10%;
+  right: 10%;
+ text-align: start;
+  color: white;
+}
+.text-over a{
+  color: white;
+}

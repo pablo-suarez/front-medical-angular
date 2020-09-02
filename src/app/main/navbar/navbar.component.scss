@@ -1,0 +1,16 @@
+.topnav a:hover {
+  border-bottom: 3px solid white;
+}
+
+.topnav a.is-active {
+  border-bottom: 3px solid white;
+}
+.navbar {
+  min-height: 80px;
+}
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+
+
